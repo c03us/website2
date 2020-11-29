@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/*
+Disallow: /crypt/*
+Disallow: /fonts/*
+Disallow: /img/*
+Disallow: /js/*
+Disallow: /lang/*
+Disallow: /style/*
